@@ -32,3 +32,9 @@
 * Don’t forget to push your header file
 * All your header files should be include guarded
 * Note that we will not provide the _putchar function for this project
+
+| File | Description |
+|------------|------------|
+| printify | `a function that produces output according to a format.`|
+| main.h | `Function prototypes` |
+
