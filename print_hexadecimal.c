@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
 * print_hex_base - base function for printing hexadecimal numbers
 * @arg: argument list containing hexadecimal
@@ -37,3 +39,4 @@ int print_HEX(va_list arg)
 {
 return (print_hex_base(arg, 'A'));
 }
+

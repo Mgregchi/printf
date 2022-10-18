@@ -89,3 +89,4 @@ _putchar(numhex[j]);
 free(numhex);
 return (nbrCharacters);
 }
+
