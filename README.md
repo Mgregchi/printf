@@ -6,7 +6,7 @@
 * [Group Projects](./Group_Projects.pdf)
 * [Pair Programming - How To](./pair_programming_how_to.pdf)
 * [Flowcharts](./flowcharts.pdf)
-* Technical Writing
+* [Technical Writing](./technical_writing.pdf)
 
 ### Resources
 **Read or watch:**
