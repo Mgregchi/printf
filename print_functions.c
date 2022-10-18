@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 /**
  * print_char - writes the character c to stdout
  * @arg: argument
