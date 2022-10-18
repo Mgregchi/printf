@@ -21,6 +21,7 @@ int print_HEX(va_list arg);
 int print_STR(va_list arg);
 int print_int(va_list arg);
 int print_unsigned(va_list arg);
+int printIdentifiers(char next, va_list arg);
 
 /**
  * struct identifierStruct - structure definition of a printTypeStruct
