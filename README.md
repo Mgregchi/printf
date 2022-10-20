@@ -33,6 +33,8 @@
 * All your header files should be include guarded
 * Note that we will not provide the _putchar function for this project
 
+### Files and Description
+
 | File | Description |
 |------------|------------|
 | printify | `a function that produces output according to a format.`|
